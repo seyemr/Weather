@@ -1,0 +1,43 @@
+/** @format */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.result {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  background: url(istockphoto-1328689113-612x612.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+ul {
+  list-style: none;
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.3rem;
+  margin-right: 200px;
+  color:rgb(0, 0, 0);
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+  margin-left: 200px;
+  list-style-type: style;
+  font-family: sans-serif;
+  
+}
+
+
+
